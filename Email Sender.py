@@ -3,10 +3,10 @@ import ssl
 import smtplib
 
 
-email_sender='musawerhussain1214@gmail.com'
-email_password = 'vflvuvyohecrcxln'
+email_sender=''
+email_password = ''
 
-email_receiver = 'musawerhussain462@gmail.com'
+email_receiver = ''
 
 subject = "This is my first project"
 body = """
